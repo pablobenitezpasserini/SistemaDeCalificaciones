@@ -1,0 +1,14 @@
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\bin\Debug\net8.0\SistemaDeCalificaciones.exe
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\bin\Debug\net8.0\SistemaDeCalificaciones.deps.json
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\bin\Debug\net8.0\SistemaDeCalificaciones.runtimeconfig.json
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\bin\Debug\net8.0\SistemaDeCalificaciones.dll
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\bin\Debug\net8.0\SistemaDeCalificaciones.pdb
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\SistemaDeCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\SistemaDeCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\SistemaDeCalificaciones.AssemblyInfo.cs
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\SistemaDeCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\SistemaDeCalificaciones.dll
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\refint\SistemaDeCalificaciones.dll
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\SistemaDeCalificaciones.pdb
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\SistemaDeCalificaciones.genruntimeconfig.cache
+C:\Users\Pablo\Desktop\CSharpProjects\SolucionSistemaDeCalificaciones\SistemaDeCalificaciones\obj\Debug\net8.0\ref\SistemaDeCalificaciones.dll
