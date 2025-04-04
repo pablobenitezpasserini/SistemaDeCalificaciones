@@ -2,7 +2,7 @@
 int contadorDesaprobados = 0;
 
 Console.WriteLine("---Menu Principal---");
-// a ver si funca
+// a ver si funca 3.0
 Console.WriteLine("1- Ingresar de cantidad fija de nota");
 Console.WriteLine("2- Ingresar indefinido de notas");
 Console.WriteLine("3- Mostrar resumen");
